@@ -8,6 +8,10 @@ https://wavesplatform.com/
 
 https://bitcointalk.org/index.php?topic=1387944.0
 
+## Features:
+
+- Address Generation
+
 ### To Build:
 
 Have Linux (Windows support coming soon) with clang installed.
